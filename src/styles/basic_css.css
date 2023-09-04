@@ -1,0 +1,13 @@
+.box1 {
+  background-color: gold;
+}
+
+.box1 div {
+  width: 300px;
+  color: yellow;
+  background-color: black;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 50p;
+  text-align: center;
+}
