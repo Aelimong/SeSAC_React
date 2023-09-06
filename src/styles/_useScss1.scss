@@ -1,0 +1,9 @@
+.comp {
+  border: 1px solid $blueBtn;
+  background-color: orange;
+  h2 {
+    color: #fff;
+  }
+
+  @import "use_scss2";
+}
