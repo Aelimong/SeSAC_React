@@ -1,5 +1,12 @@
+import Test from "./components/Test";
+import Practice from "./components/Practice";
 function App() {
-  return <h3>hey</h3>;
+  return (
+    <>
+      <Test />
+      <Practice />
+    </>
+  );
 }
 
 export default App;
